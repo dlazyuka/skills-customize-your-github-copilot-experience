@@ -1,0 +1,11 @@
+StudentName,Grade,StudyHours,FavoriteSubject,Passed
+Alice,90,4,Math,Yes
+Bob,85,3,science,yes
+,78,5,History,Yes
+Diana,not available,2,Math,No
+Eve,92,6,Science,YES
+Frank,88,,Math,Yes
+Grace,76,3, ,No
+Henry,91,7,Computer Science,Yes
+Ivy,80,4,math,No
+Jack,94,5,Science,Yes

@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "data-cleaning-visualization",
+      "title": "Data Cleaning and Visualization with Python",
+      "description": "Clean a messy dataset in Python and create simple charts to summarize the results",
+      "path": "assignments/data-cleaning-visualization",
+      "dueDate": "2026-11-03",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "sample-data.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
